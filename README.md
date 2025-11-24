@@ -31,7 +31,7 @@ I am a first-year student passionate about the intersection of data, algorithms,
 *(These graphs automatically update as you code more!)*
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical" alt="Dharun's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dharun-Balaji&show_icons=true&theme=radical" alt="Dharun's Stats" />
 </p>
 
 ---
