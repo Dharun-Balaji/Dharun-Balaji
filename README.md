@@ -25,12 +25,6 @@ I am a first-year student passionate about the intersection of data, algorithms,
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Dharun-Balaji&show_icons=true&theme=radical" alt="Dharun's Stats" />
-</p>
-
----
 
 ### 📫 Connect with Me
 <p align="left">
