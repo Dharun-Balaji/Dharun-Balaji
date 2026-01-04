@@ -1,16 +1,14 @@
 # Hi there, I'm Dharun Balaji! 👋
 
-### 👨‍🎓 Freshman @ Chennai Institute of Technology
 **B.E. Computer Science and Engineering (Artificial Intelligence & Machine Learning)**
 
 ---
 
 ### 🚀 About Me
-I am a first-year student passionate about the intersection of data, algorithms, and system architecture. As an AI & ML major, I am currently building my foundation in computer science while tinkering with Linux environments and intelligent agents.
+I'm interested about the intersection of data, algorithms, and system architecture. As an AI & ML major, I am currently building my foundation in computer science while tinkering with Linux environments and intelligent agents.
 
 * 🔭 I’m currently working on: **Python agents and Linux (Hyprland) configs**
-* 🌱 I’m currently learning: **Data Structures, C, and Neural Networks**
-* 🐧 Fun fact: I love customizing my dev environment (Check out my `hyprlandconf` repo!)
+* 🌱 I’m currently learning: **Data Structures, C++, and Neural Networks**
 
 ---
 
