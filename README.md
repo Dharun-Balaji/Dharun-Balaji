@@ -1,31 +1,22 @@
-# Hi there, I'm Dharun Balaji! 👋
-
-**B.E. Computer Science and Engineering (Artificial Intelligence & Machine Learning)**
-
----
-
-### 🚀 About Me
-I'm interested about the intersection of data, algorithms, and system architecture. As an AI & ML major, I am currently building my foundation in computer science while tinkering with Linux environments and intelligent agents.
-
-* 🔭 I’m currently working on: **Python agents and Linux (Hyprland) configs**
-* 🌱 I’m currently learning: **Data Structures, C++, and Neural Networks**
+# dharun balaji
+cs student · Chennai, India
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+**stack**
+`python` `c++` `pytorch` `unsloth` `ollama` `arch linux` `hyprland` `sql`
 
 ---
 
+**projects**
 
-### 📫 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/dharunbalaji/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+| | |
+|---|---|
+| [sentiment analyzer](https://github.com/dharun-balaji) | imdb reviews · tfidf + logistic regression |
+| [qwen fine-tune](https://github.com/dharun-balaji) | dpo on 17k dataset · unsloth · colab |
+| [novel reader tui](https://github.com/dharun-balaji) | python / textual · tts · catppuccin |
+| [8d audio](https://github.com/dharun-balaji) | python · equal-power panning · convolution reverb |
+
+---
+
+**currently** — second sem cse · looking for ai/ml internships · open to collab
