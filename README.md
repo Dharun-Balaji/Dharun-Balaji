@@ -1,16 +1,15 @@
 # dharun balaji
-cs student · Chennai, India
+cs student · chennai, india
 
 ---
 
-**stack**
-`python` `c++` `pytorch` `unsloth` `ollama` `arch linux` `hyprland` `sql`
+**stack** — `python` `c++` `pytorch` `unsloth` `ollama` `arch linux` `hyprland` `sql`
 
 ---
 
 **projects**
 
-| | |
+| project | description |
 |---|---|
 | sentiment analyzer | imdb reviews · tfidf + logistic regression |
 | qwen fine-tune | dpo on 17k dataset · unsloth · colab |
