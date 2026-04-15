@@ -19,4 +19,4 @@ cs student · Chennai, India
 
 ---
 
-**currently** — second sem cse · looking for ai/ml internships · open to collab
+**currently** — second sem cse · looking for internships · open to collab
