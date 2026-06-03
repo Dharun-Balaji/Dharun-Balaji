@@ -1,5 +1,5 @@
 # dharun balaji
-cs student · chennai, india
+cs · chennai, india
 
 ---
 
