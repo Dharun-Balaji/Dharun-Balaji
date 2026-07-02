@@ -18,4 +18,4 @@ cs · chennai, india
 
 ---
 
-**currently** — second sem cse · looking for internships · open to collab
+**currently** — third sem cse · looking for internships · open to collab
